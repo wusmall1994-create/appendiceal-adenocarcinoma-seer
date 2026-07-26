@@ -1,0 +1,145 @@
+﻿year,hist_group,cases,population,rate_per_100k,cohort
+2000,Conventional/intestinal adenocarcinoma,99,74952547,0.13208357015539443,all_ages
+2000,Mucinous-type adenocarcinoma,126,74952547,0.16810636201595658,all_ages
+2000,Signet-ring cell carcinoma,17,74952547,0.022681017097390965,all_ages
+2001,Conventional/intestinal adenocarcinoma,115,75823654,0.15166771044824615,all_ages
+2001,Mucinous-type adenocarcinoma,149,75823654,0.19650859875468413,all_ages
+2001,Signet-ring cell carcinoma,27,75823654,0.03560894071393605,all_ages
+2002,Conventional/intestinal adenocarcinoma,96,76597496,0.1253304677218169,all_ages
+2002,Mucinous-type adenocarcinoma,159,76597496,0.20757858716425925,all_ages
+2002,Signet-ring cell carcinoma,26,76597496,0.033943668341325416,all_ages
+2003,Conventional/intestinal adenocarcinoma,97,77323962,0.12544623618743178,all_ages
+2003,Mucinous-type adenocarcinoma,183,77323962,0.23666661053917543,all_ages
+2003,Signet-ring cell carcinoma,27,77323962,0.034918024505779986,all_ages
+2004,Conventional/intestinal adenocarcinoma,115,78044525,0.1473517841257923,all_ages
+2004,Mucinous-type adenocarcinoma,138,78044525,0.17682214095095075,all_ages
+2004,Signet-ring cell carcinoma,25,78044525,0.032032996549085285,all_ages
+2005,Conventional/intestinal adenocarcinoma,105,78545195,0.13368099729079547,all_ages
+2005,Mucinous-type adenocarcinoma,193,78545195,0.24571840454403351,all_ages
+2005,Signet-ring cell carcinoma,33,78545195,0.04201402771996428,all_ages
+2006,Conventional/intestinal adenocarcinoma,99,79131483,0.12510823283824973,all_ages
+2006,Mucinous-type adenocarcinoma,203,79131483,0.25653506329459286,all_ages
+2006,Signet-ring cell carcinoma,43,79131483,0.05433993951560342,all_ages
+2007,Conventional/intestinal adenocarcinoma,126,79874119,0.1577482187941253,all_ages
+2007,Mucinous-type adenocarcinoma,206,79874119,0.25790581802849055,all_ages
+2007,Signet-ring cell carcinoma,31,79874119,0.03881106970331654,all_ages
+2008,Conventional/intestinal adenocarcinoma,128,80716323,0.15858006812327166,all_ages
+2008,Mucinous-type adenocarcinoma,240,80716323,0.29733762773113437,all_ages
+2008,Signet-ring cell carcinoma,45,80716323,0.0557508051995877,all_ages
+2009,Conventional/intestinal adenocarcinoma,161,81524852,0.19748579243050943,all_ages
+2009,Mucinous-type adenocarcinoma,205,81524852,0.25145706489599023,all_ages
+2009,Signet-ring cell carcinoma,50,81524852,0.0613309914380464,all_ages
+2010,Conventional/intestinal adenocarcinoma,119,82300365,0.14459231134637132,all_ages
+2010,Mucinous-type adenocarcinoma,257,82300365,0.3122707900505666,all_ages
+2010,Signet-ring cell carcinoma,51,82300365,0.061968133434159134,all_ages
+2011,Conventional/intestinal adenocarcinoma,163,83027991,0.1963193352468326,all_ages
+2011,Mucinous-type adenocarcinoma,243,83027991,0.29267238322073813,all_ages
+2011,Signet-ring cell carcinoma,49,83027991,0.059016241884017155,all_ages
+2012,Conventional/intestinal adenocarcinoma,181,83708541,0.21622644217392345,all_ages
+2012,Mucinous-type adenocarcinoma,261,83708541,0.31179614037234266,all_ages
+2012,Signet-ring cell carcinoma,45,83708541,0.053757955236610803,all_ages
+2013,Conventional/intestinal adenocarcinoma,179,84357364,0.2121925004674162,all_ages
+2013,Mucinous-type adenocarcinoma,269,84357364,0.3188814671828769,all_ages
+2013,Signet-ring cell carcinoma,53,84357364,0.06282794706577129,all_ages
+2014,Conventional/intestinal adenocarcinoma,159,85032731,0.18698682040448636,all_ages
+2014,Mucinous-type adenocarcinoma,267,85032731,0.31399673615092993,all_ages
+2014,Signet-ring cell carcinoma,62,85032731,0.07291309978036575,all_ages
+2015,Conventional/intestinal adenocarcinoma,184,85714900,0.21466512823324768,all_ages
+2015,Mucinous-type adenocarcinoma,285,85714900,0.33249761710041076,all_ages
+2015,Signet-ring cell carcinoma,58,85714900,0.06766618172569763,all_ages
+2016,Conventional/intestinal adenocarcinoma,204,86360824,0.2362182185755893,all_ages
+2016,Mucinous-type adenocarcinoma,276,86360824,0.31958935454344434,all_ages
+2016,Signet-ring cell carcinoma,55,86360824,0.06368628441988927,all_ages
+2017,Conventional/intestinal adenocarcinoma,191,86908353,0.2197717404678006,all_ages
+2017,Mucinous-type adenocarcinoma,335,86908353,0.38546352385713717,all_ages
+2017,Signet-ring cell carcinoma,44,86908353,0.050628044924519514,all_ages
+2018,Conventional/intestinal adenocarcinoma,231,87313675,0.2645633687964686,all_ages
+2018,Mucinous-type adenocarcinoma,282,87313675,0.32297346320607856,all_ages
+2018,Signet-ring cell carcinoma,40,87313675,0.04581183875263525,all_ages
+2019,Conventional/intestinal adenocarcinoma,249,87606197,0.284226468591029,all_ages
+2019,Mucinous-type adenocarcinoma,320,87606197,0.3652709636511216,all_ages
+2019,Signet-ring cell carcinoma,39,87606197,0.04451739869498045,all_ages
+2020,Conventional/intestinal adenocarcinoma,251,87756816,0.2860176695562884,all_ages
+2020,Mucinous-type adenocarcinoma,276,87756816,0.3145054852491458,all_ages
+2020,Signet-ring cell carcinoma,37,87756816,0.04216196722542896,all_ages
+2021,Conventional/intestinal adenocarcinoma,246,87491820,0.28116914244097335,all_ages
+2021,Mucinous-type adenocarcinoma,285,87491820,0.32574473819381056,all_ages
+2021,Signet-ring cell carcinoma,30,87491820,0.0342889198098748,all_ages
+2022,Conventional/intestinal adenocarcinoma,270,87718279,0.3078035764928767,all_ages
+2022,Mucinous-type adenocarcinoma,529,87718279,0.6030670072767843,all_ages
+2022,Signet-ring cell carcinoma,24,87718279,0.02736031791047793,all_ages
+2023,Conventional/intestinal adenocarcinoma,248,88160966,0.2813036327210843,all_ages
+2023,Mucinous-type adenocarcinoma,637,88160966,0.7225419921102044,all_ages
+2023,Signet-ring cell carcinoma,33,88160966,0.03743153177337009,all_ages
+2000,Conventional/intestinal adenocarcinoma,15,33668765,0.04455167868497701,age20_49
+2000,Mucinous-type adenocarcinoma,32,33668765,0.09504358119461763,age20_49
+2000,Signet-ring cell carcinoma,6,33668765,0.017820671473990805,age20_49
+2001,Conventional/intestinal adenocarcinoma,20,33941689,0.058924586811222035,age20_49
+2001,Mucinous-type adenocarcinoma,43,33941689,0.12668786164412738,age20_49
+2001,Signet-ring cell carcinoma,11,33941689,0.03240852274617212,age20_49
+2002,Conventional/intestinal adenocarcinoma,24,34127808,0.07032388367867048,age20_49
+2002,Mucinous-type adenocarcinoma,44,34127808,0.12892712007756255,age20_49
+2002,Signet-ring cell carcinoma,10,34127808,0.029301618199446034,age20_49
+2003,Conventional/intestinal adenocarcinoma,19,34215898,0.0555297423437491,age20_49
+2003,Mucinous-type adenocarcinoma,50,34215898,0.1461309009046029,age20_49
+2003,Signet-ring cell carcinoma,10,34215898,0.029226180180920575,age20_49
+2004,Conventional/intestinal adenocarcinoma,25,34312478,0.07285979170609595,age20_49
+2004,Mucinous-type adenocarcinoma,33,34312478,0.09617492505204665,age20_49
+2004,Signet-ring cell carcinoma,8,34312478,0.023315133345950707,age20_49
+2005,Conventional/intestinal adenocarcinoma,19,34256612,0.05546374521800346,age20_49
+2005,Mucinous-type adenocarcinoma,60,34256612,0.1751486691094846,age20_49
+2005,Signet-ring cell carcinoma,10,34256612,0.02919144485158077,age20_49
+2006,Conventional/intestinal adenocarcinoma,15,34264224,0.04377743969920346,age20_49
+2006,Mucinous-type adenocarcinoma,48,34264224,0.14008780703745108,age20_49
+2006,Signet-ring cell carcinoma,10,34264224,0.029184959799468974,age20_49
+2007,Conventional/intestinal adenocarcinoma,19,34264963,0.055450227685930956,age20_49
+2007,Mucinous-type adenocarcinoma,47,34264963,0.13716635269677657,age20_49
+2007,Signet-ring cell carcinoma,6,34264963,0.017510598216609777,age20_49
+2008,Conventional/intestinal adenocarcinoma,24,34321013,0.06992800591287908,age20_49
+2008,Mucinous-type adenocarcinoma,51,34321013,0.14859701256486807,age20_49
+2008,Signet-ring cell carcinoma,14,34321013,0.0407913367825128,age20_49
+2009,Conventional/intestinal adenocarcinoma,31,34405802,0.09010108236977007,age20_49
+2009,Mucinous-type adenocarcinoma,51,34405802,0.14823081293091206,age20_49
+2009,Signet-ring cell carcinoma,13,34405802,0.037784324864742286,age20_49
+2010,Conventional/intestinal adenocarcinoma,20,34473127,0.05801620491230749,age20_49
+2010,Mucinous-type adenocarcinoma,60,34473127,0.17404861473692249,age20_49
+2010,Signet-ring cell carcinoma,11,34473127,0.03190891270176912,age20_49
+2011,Conventional/intestinal adenocarcinoma,21,34612343,0.06067199784770422,age20_49
+2011,Mucinous-type adenocarcinoma,63,34612343,0.18201599354311265,age20_49
+2011,Signet-ring cell carcinoma,13,34612343,0.037558855810483564,age20_49
+2012,Conventional/intestinal adenocarcinoma,32,34739291,0.09211471817314866,age20_49
+2012,Mucinous-type adenocarcinoma,70,34739291,0.2015009460037627,age20_49
+2012,Signet-ring cell carcinoma,7,34739291,0.020150094600376273,age20_49
+2013,Conventional/intestinal adenocarcinoma,28,34830848,0.08038851078216644,age20_49
+2013,Mucinous-type adenocarcinoma,66,34830848,0.18948720398653515,age20_49
+2013,Signet-ring cell carcinoma,10,34830848,0.028710182422202298,age20_49
+2014,Conventional/intestinal adenocarcinoma,27,34938764,0.07727806284160481,age20_49
+2014,Mucinous-type adenocarcinoma,51,34938764,0.14596967425636465,age20_49
+2014,Signet-ring cell carcinoma,19,34938764,0.054380859036684874,age20_49
+2015,Conventional/intestinal adenocarcinoma,26,35067589,0.07414253657415684,age20_49
+2015,Mucinous-type adenocarcinoma,62,35067589,0.17680143336914322,age20_49
+2015,Signet-ring cell carcinoma,14,35067589,0.03992290430916137,age20_49
+2016,Conventional/intestinal adenocarcinoma,37,35241380,0.10499021320958488,age20_49
+2016,Mucinous-type adenocarcinoma,62,35241380,0.17592954645930436,age20_49
+2016,Signet-ring cell carcinoma,12,35241380,0.03405087995986536,age20_49
+2017,Conventional/intestinal adenocarcinoma,35,35395422,0.09888284422770831,age20_49
+2017,Mucinous-type adenocarcinoma,75,35395422,0.21189180905937496,age20_49
+2017,Signet-ring cell carcinoma,5,35395422,0.014126120603958332,age20_49
+2018,Conventional/intestinal adenocarcinoma,44,35479874,0.12401396915896602,age20_49
+2018,Mucinous-type adenocarcinoma,52,35479874,0.14656196355150528,age20_49
+2018,Signet-ring cell carcinoma,9,35479874,0.025366493691606685,age20_49
+2019,Conventional/intestinal adenocarcinoma,39,35499259,0.10986144809388838,age20_49
+2019,Mucinous-type adenocarcinoma,68,35499259,0.19155329411242078,age20_49
+2019,Signet-ring cell carcinoma,5,35499259,0.014084801037677997,age20_49
+2020,Conventional/intestinal adenocarcinoma,36,35444595,0.10156696669830759,age20_49
+2020,Mucinous-type adenocarcinoma,61,35444595,0.1720995824610212,age20_49
+2020,Signet-ring cell carcinoma,4,35444595,0.011285218522034178,age20_49
+2021,Conventional/intestinal adenocarcinoma,39,35238243,0.1106752115875925,age20_49
+2021,Mucinous-type adenocarcinoma,70,35238243,0.1986478156700378,age20_49
+2021,Signet-ring cell carcinoma,3,35238243,0.008513477814430192,age20_49
+2022,Conventional/intestinal adenocarcinoma,35,35333587,0.099055892627035,age20_49
+2022,Mucinous-type adenocarcinoma,117,35333587,0.3311296982103742,age20_49
+2022,Signet-ring cell carcinoma,4,35333587,0.011320673443089716,age20_49
+2023,Conventional/intestinal adenocarcinoma,30,35594151,0.08428351051272441,age20_49
+2023,Mucinous-type adenocarcinoma,128,35594151,0.3596096448542908,age20_49
+2023,Signet-ring cell carcinoma,3,35594151,0.00842835105127244,age20_49
