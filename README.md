@@ -2,13 +2,6 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21613098.svg)](https://doi.org/10.5281/zenodo.21613098)
 
-Analysis code and derived aggregate tables for the manuscript:
-
-**Rising Young-Adult Appendiceal Adenocarcinoma Incidence in SEER: Stage, Histology, Mortality, and Birth-Cohort Patterns**
-
-Submitted to *JNCI Cancer Spectrum* (2026).
-
-Corresponding author: Fengxiang Zheng, Department of Gastroenterology, Longyan First Affiliated Hospital of Fujian Medical University, Longyan, Fujian, China. Email: ruq520@163.com
 
 ## Contents
 
